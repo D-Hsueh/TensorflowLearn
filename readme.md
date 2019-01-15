@@ -21,4 +21,5 @@ This notebook is write in chinese.if you want to see the english version, please
 + Chapter 2
     + 线性回归模型
     + 基于动态图实现的线性回归模型
+    + 逻辑回归模型
     
