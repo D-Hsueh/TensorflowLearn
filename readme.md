@@ -1,5 +1,5 @@
 # tensorflow 学习笔记
-This notebook is write in chinese.if you want to see the english version, please click the original author's link:
+This notebook is write in chinese.if you want to see the English version, please click the original author's link:
 [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples#tutorial-index) 
 
 该项目主要来源于Github上的开源项目
