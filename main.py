@@ -7,7 +7,7 @@
 @Software    : PyCharm
 @introduction:
 """
-from chapter2.LogisticRegression import run
+from chapter2.RandomForest import run
 
 if __name__ == "__main__":
     run()

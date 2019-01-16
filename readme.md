@@ -22,4 +22,7 @@ This notebook is write in chinese.if you want to see the english version, please
     + 线性回归模型
     + 基于动态图实现的线性回归模型
     + 逻辑回归模型
+    + 最近邻模型
+    + K-Means聚类模型
+    + 随机森林
     
