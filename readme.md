@@ -25,4 +25,5 @@ This notebook is write in chinese.if you want to see the English version, please
     + 最近邻模型
     + K-Means聚类模型
     + 随机森林
+    + 梯度提升决策树
     
