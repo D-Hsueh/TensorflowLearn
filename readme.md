@@ -17,7 +17,7 @@ This notebook is write in chinese.if you want to see the English version, please
 + Chapter 1
     + "HELLO WORLD"
     + 基础的操作
-    + 动态图API
+    + [动态图API](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter1/BasicEagerAPI.py)
 + Chapter 2
     + 线性回归模型
     + 基于动态图实现的线性回归模型
