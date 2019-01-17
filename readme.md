@@ -15,23 +15,23 @@ This notebook is write in chinese.if you want to see the English version, please
 ## 章节列表
 运行方式：在main.py文件中import想要运行的代码的run()方法即可，main.py中给出了运行第一章第一节代码的方法。
 + Chapter 1
-    + "HELLO WORLD"
-    + 基础的操作
+    + ["HELLO WORLD"](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter1/HelloWorld.py)
+    + [基础的操作](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter1/BasicOperations.py)
     + [动态图API](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter1/BasicEagerAPI.py)
 + Chapter 2
-    + 线性回归模型
-    + 基于动态图实现的线性回归模型
-    + 逻辑回归模型
-    + 最近邻模型
-    + K-Means聚类模型
-    + 随机森林
-    + 梯度提升决策树
-    + 单词（字）的向量表示
+    + [线性回归模型](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter2/LinearRegression.py)
+    + [基于动态图实现的线性回归模型](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter2/LinearRegressionWithEagerAPI.py)
+    + [逻辑回归模型](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter2/LogisticRegression.py)
+    + [最近邻模型](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter2/NearestNeighbor.py)
+    + [K-Means聚类模型](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter2/Kmeans.py)
+    + [随机森林](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter2/RandomForest.py)
+    + [梯度提升决策树](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter2/GradientBoostedDecisionTree.py)
+    + [单词（字）的向量表示](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter2/Word2Vec.py)
 + chapter 3
-    + 监督学习
-        + 一个神经网络的例子
-        + 利用 Tensorflow 提供的 API 更快的实现神经网络
-        + 卷积神经网络
-        + 利用 Tensorflow 提供的 API 更快的实现卷积神经网络
-        + 循环神经网络（长短期记忆网络）
+    + [监督学习](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Supervised)
+        + [一个神经网络的例子](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/NeuralNetworkExample.py)
+        + [利用 Tensorflow 提供的 API 更快的实现神经网络](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/NeuralNetworkExamplewithTFAPI.py)
+        + [卷积神经网络](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/ConvolutionalNeuralNetwork.py)
+        + [利用 Tensorflow 提供的 API 更快的实现卷积神经网络](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/ConvolutionalNeuralNetworkwithTFAPI.py)
+        + [循环神经网络（长短期记忆网络）](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/LSTM.py)
     
