@@ -8,7 +8,7 @@
 @introduction: 该文件主要用于作者测试代码
 """
 
-from chapter2.Word2Vec import run
+from chapter3.Supervised.NeuralNetworkExample import run
 
 if __name__ == "__main__":
     run()

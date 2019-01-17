@@ -27,4 +27,7 @@ This notebook is write in chinese.if you want to see the English version, please
     + 随机森林
     + 梯度提升决策树
     + 单词（字）的向量表示
++ chapter 3
+    + 监督学习
+        + 一个神经网络的例子
     
