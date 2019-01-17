@@ -32,4 +32,5 @@ This notebook is write in chinese.if you want to see the English version, please
         + 一个神经网络的例子
         + 利用 Tensorflow 提供的 API 更快的实现神经网络
         + 卷积神经网络
+        + 利用 Tensorflow 提供的 API 更快的实现卷积神经网络
     
