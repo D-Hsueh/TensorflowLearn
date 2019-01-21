@@ -8,7 +8,7 @@
 @introduction: 该文件主要用于作者测试代码
 """
 
-from chapter3.Supervised.LSTM import run
+from chapter3.Supervised.bidirectionalLSTM import run
 
 if __name__ == "__main__":
     run()

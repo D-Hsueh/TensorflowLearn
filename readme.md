@@ -33,5 +33,6 @@ This notebook is write in chinese.if you want to see the English version, please
         + [利用 Tensorflow 提供的 API 更快的实现神经网络](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/NeuralNetworkExamplewithTFAPI.py)
         + [卷积神经网络](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/ConvolutionalNeuralNetwork.py)
         + [利用 Tensorflow 提供的 API 更快的实现卷积神经网络](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/ConvolutionalNeuralNetworkwithTFAPI.py)
-        + [循环神经网络（长短期记忆网络）](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/LSTM.py)
+        + [循环神经网络（LSTM实现）](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/LSTM.py)
+        + [双向递归神经网络（LSTM实现）](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/bidirectionalLSTM.py)
     
