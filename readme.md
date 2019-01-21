@@ -37,4 +37,5 @@ This notebook is write in chinese.if you want to see the English version, please
         + [双向递归神经网络（LSTM实现）](https://github.com/D-Hsueh/TensorflowLearn/blob/master/chapter3/Supervised/bidirectionalLSTM.py)
     + [无监督学习](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised)
         + [自动编码器](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised/AutoEncoder.py)
+        + [变分自动编码器（VAE）](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised/VariationalAutoEncoder.py)
     
