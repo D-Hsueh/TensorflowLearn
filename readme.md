@@ -38,4 +38,5 @@ This notebook is write in chinese.if you want to see the English version, please
     + [无监督学习](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised)
         + [自动编码器](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised/AutoEncoder.py)
         + [变分自动编码器（VAE）](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised/VariationalAutoEncoder.py)
+        + [生成对抗网络（GAN）](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised/GAN.py)
     
