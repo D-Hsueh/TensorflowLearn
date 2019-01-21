@@ -1,6 +1,11 @@
 # tensorflow 学习笔记
 This notebook is write in chinese.if you want to see the English version, please click the original author's link:
-[TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples#tutorial-index) 
+[TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples#tutorial-index)
+
+Note: The original authors of the following codes is Aymeric Damien.
+
+注意：以下代码的原作者均为 Aymeric Damien。
+
 
 该项目主要来源于Github上的开源项目
 [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples#tutorial-index) ，由于原文主要是英文版，因此本项目主要是对原来项目的翻译，以及添加一些自己写的Demo便于理解与记忆。
@@ -39,4 +44,5 @@ This notebook is write in chinese.if you want to see the English version, please
         + [自动编码器](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised/AutoEncoder.py)
         + [变分自动编码器（VAE）](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised/VariationalAutoEncoder.py)
         + [生成对抗网络（GAN）](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised/GAN.py)
+        + [深度卷积生成对抗网络（DCGAN）](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised/DCGAN.py)
     
