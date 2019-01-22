@@ -47,4 +47,5 @@ Note: The original authors of the following codes is Aymeric Damien.
         + [深度卷积生成对抗网络（DCGAN）](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter3/Unsupervised/DCGAN.py)
 + chapter 4
     + [模型的保存和加载](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter4/SaveRestoreModel.py)
+    + [Tensorboard基础](https://github.com/D-Hsueh/TensorflowLearn/tree/master/chapter4/TensorboardBasic.py)
     

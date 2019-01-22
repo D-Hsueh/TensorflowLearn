@@ -8,7 +8,7 @@
 @introduction: 该文件主要用于作者测试代码
 """
 
-from chapter4.SaveRestoreModel import run
+from chapter4.TensorboardBasic import run
 
 if __name__ == "__main__":
     run()
